@@ -39,7 +39,7 @@ The platform consists of **two separate apps** – **Admin App** (for wholesaler
 ### 🖥 Admin App  
 | Login & Dashboard | Product Management | Order Management | User Approvals |  
 |-------------------|--------------------|------------------|----------------|  
-| ![admin-login](assets/admin/Login.png) | ![admin-products](assets/admin/Products.png) | ![admin-orders](assets/admin/Orders.png) | ![admin-approvals](assets/admin/Approvals.png) |  
+| ![admin-login](Assets/AdminAppUI/AddProduct.png) | ![admin-products](assets/admin/Products.png) | ![admin-orders](assets/admin/Orders.png) | ![admin-approvals](assets/admin/Approvals.png) |  
  
 
 ---
