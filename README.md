@@ -61,18 +61,52 @@ The platform consists of **two separate apps** – **Admin App** (for wholesaler
 
 ---
 
-## 🏗 Project Structure  
-com.example.medicaladminapp and same for userapp 
+## 📂 Project Structure
+
+### 🛠 Admin App
+
+com.example.medicaladminapp
+
 ├── api/       # API Builder & Service interfaces
+
 ├── common/    # Common utilities and constants
+
 ├── di/        # Dependency Injection modules (Hilt)
+
 ├── models/    # Data models
+
 ├── repo/      # Repository layer for data handling
+
 ├── screens/   # UI screens for products, orders, users
+
 ├── viewModel/ # ViewModels for business logic
+
 └── ui.theme/  # App theming (colors, typography)
 
---
+
+### 👤 User App
+
+com.example.medicaladminapp
+
+├── api/       # API Builder & Service interfaces
+
+├── common/    # Common utilities and constants
+
+├── di/        # Dependency Injection modules (Hilt)
+
+├── models/    # Data models
+
+├── repo/      # Repository layer for data handling
+
+├── screens/   # UI screens for products, orders, users
+
+├── viewModel/ # ViewModels for business logic
+
+└── ui.theme/  # App theming (colors, typography)
+
+
+
+---
 
 ## 🛠 Installation Guide  
 
