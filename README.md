@@ -30,9 +30,13 @@ The platform consists of **two separate apps** – **Admin App** (for wholesaler
 ---
 
 ### 📱 User App  
-|   LoginScreen   |   SignUpScreen  |    HomeScreen   |  Product  List  |  Order Screen 1 |  OrderScreen 2  | ProfileScreen 1 | ProfileScreen 2 | 
-|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|  
-| <img src="Assets/UserAppUI/LogInUI.png" width="300"/> |<img src="Assets/UserAppUI/SignUpUI.png" width="180"/>|<img src="Assets/UserAppUI/HomeScreenUI.png" width="220"/> | <img src="Assets/UserAppUI/Medicines(T)UI.png" width="840"/> | <img src="Assets/UserAppUI/OrderScreenUI_1.png" width="840"/> | <img src="Assets/UserAppUI/OrderScreenUI_2.png" width="220"/> | <img src="Assets/UserAppUI/ProfileScreen_1.png" width="200"/> | <img src="Assets/UserAppUI/ProfileScreen_2.png" width="200"/> |    
+|   LoginScreen   |   SignUpScreen  |    HomeScreen   |  Product  List  | 
+|-----------------|-----------------|-----------------|-----------------|
+| <img src="Assets/UserAppUI/LogInUI.png" width="300"/> |<img src="Assets/UserAppUI/SignUpUI.png" width="180"/>|<img src="Assets/UserAppUI/HomeScreenUI.png" width="220"/> | <img src="Assets/UserAppUI/Medicines(T)UI.png" width="840"/> |
+
+| Order Screen 1 |  OrderScreen 2  | ProfileScreen 1 | ProfileScreen 2 | 
+|----------------|-----------------|-----------------|-----------------| 
+|<img src="Assets/UserAppUI/OrderScreenUI_1.png" width="840"/> | <img src="Assets/UserAppUI/OrderScreenUI_2.png" width="220"/> | <img src="Assets/UserAppUI/ProfileScreen_1.png" width="200"/> | <img src="Assets/UserAppUI/ProfileScreen_2.png" width="200"/> |  
 
 |    EditProfile     |      ContactUs     |     HelpCenter     | Privacy&Security 1 | Privacy&Security 2 |   PaymentScreen    | 
 |--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|   
