@@ -128,27 +128,7 @@ com.example.medicaladminapp
 
 └── ui.theme/  # App theming (colors, typography)
 
-
-
 ---
-
-## 🛠 Installation Guide  
-
-### Prerequisites:  
-- Android Studio Hedgehog or later  
-- Minimum SDK: 24 (Android 7.0)  
-- Kotlin 1.9+  
-- Active internet connection (for API calls)  
-
-### Steps:  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/medicart.git
-Open in Android Studio.
-
-Sync Gradle files.
-
-Run the app on an emulator or physical device.
 
 ## 🚀 Future Improvements
 - 🌙 **Dark Mode** – Light/Dark theme support  
