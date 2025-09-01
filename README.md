@@ -65,6 +65,13 @@ You can download and install the latest APK of **PharmaConnect** from the link b
 *(Make sure to enable "Install from Unknown Sources" on your Android device before installing.)*
 
 
+### ⚠️ Admin App (Private)
+The **Admin App** is for internal use only and will **not be publicly released** due to security reasons.  
+If required, please **contact to me directly via email** to request access.
+
+**himanshuvinchurkar111@gmail.com**
+
+
 ---
 
 ## 🧰 Tech Stack  
