@@ -30,17 +30,17 @@ The platform consists of **two separate apps** – **Admin App** (for wholesaler
 ---
 
 ### 📱 User App  
-|   LoginScreen   |   SignUpScreen  |    HomeScreen   |  Product  List  |  Order Screen 1 |  OrderScreen 2  |
-|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| <img src="Assets/UserAppUI/LogInUI.png" width="240"/> |<img src="Assets/UserAppUI/SignUpUI.png" width="220"/>|<img src="Assets/UserAppUI/HomeScreenUI.png" width="240"/> | <img src="Assets/UserAppUI/Medicines(T)UI.png" width="320"/> |<img src="Assets/UserAppUI/OrderScreenUI_1.png" width="340"/> | <img src="Assets/UserAppUI/OrderScreenUI_2.png" width="260"/> |
+|   LoginScreen   |   SignUpScreen  |    HomeScreen   |  Product  List  |  Order Screen 1 |
+|-----------------|-----------------|-----------------|-----------------|-----------------|
+| <img src="Assets/UserAppUI/LogInUI.png" width="160"/> |<img src="Assets/UserAppUI/SignUpUI.png" width="160"/>|<img src="Assets/UserAppUI/HomeScreenUI.png" width="160"/> | <img src="Assets/UserAppUI/Medicines(T)UI.png" width="160"/> |<img src="Assets/UserAppUI/OrderScreenUI_1.png" width="160"/> |
 
-| ProfileScreen 1 | ProfileScreen 2 |    EditProfile     |      ContactUs     |     HelpCenter     | Privacy&Security 1 | 
-|-----------------|-----------------|--------------------|--------------------|--------------------|--------------------| 
-| <img src="Assets/UserAppUI/ProfileScreen_1.png" width="240"/> | <img src="Assets/UserAppUI/ProfileScreen_2.png" width="240"/> | <img src="Assets/UserAppUI/EditProfileScreenUI.png" width="300"/>|<img src="Assets/UserAppUI/ContactUsScreenUI.png" width="300"/> | <img src="Assets/UserAppUI/HelpCenterScreenUI.png" width="300"/> | <img src="Assets/UserAppUI/Privacy&SecurityScreenUI_1.png" width="200"/>|  
+|  OrderScreen 2  | ProfileScreen 1 | ProfileScreen 2 |    EditProfile     |      ContactUs     | 
+|-----------------|-----------------|-----------------|--------------------|--------------------| 
+| <img src="Assets/UserAppUI/OrderScreenUI_2.png" width="160"/> | <img src="Assets/UserAppUI/ProfileScreen_1.png" width="160"/> | <img src="Assets/UserAppUI/ProfileScreen_2.png" width="160"/> | <img src="Assets/UserAppUI/EditProfileScreenUI.png" width="160"/>|<img src="Assets/UserAppUI/ContactUsScreenUI.png" width="160"/> |
 
-| Privacy&Security 2 |   PaymentScreen    | 
-|--------------------|--------------------|   
-| <img src="Assets/UserAppUI/Privacy&SecurityScreenUI_2.png" width="140"/> |<img src="Assets/UserAppUI/PaymentScreenUI.png" width="140"/> |  
+|     HelpCenter     | Privacy&Security 1 | Privacy&Security 2 |   PaymentScreen    | 
+|--------------------|--------------------|--------------------|--------------------|   
+| <img src="Assets/UserAppUI/HelpCenterScreenUI.png" width="160"/> | <img src="Assets/UserAppUI/Privacy&SecurityScreenUI_1.png" width="160"/>|   <img src="Assets/UserAppUI/Privacy&SecurityScreenUI_2.png" width="160"/> |<img src="Assets/UserAppUI/PaymentScreenUI.png" width="160"/> |  
 
 ---
 
