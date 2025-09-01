@@ -30,9 +30,13 @@ The platform consists of **two separate apps** – **Admin App** (for wholesaler
 ---
 
 ### 📱 User App  
-| Login & Approval | Product List | Order Screen | Order History |  
-|------------------|--------------|--------------|---------------|  
-| ![user-login](assets/user/Login.png) | ![user-products](assets/user/Products.png) | ![user-orders](assets/user/Orders.png) | ![user-history](assets/user/History.png) |  
+|   LoginScreen   |   SignUpScreen  |    HomeScreen   |  Product  List  |  Order Screen 1 |  OrderScreen 2  | ProfileScreen 1 | ProfileScreen 2 | 
+|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|  
+| ![user-login](Assets/UserAppUI/LogInUI.png) | ![user-products](Assets/UserAppUI/SignUpUI.png) | ![user-orders](Assets/UserAppUI/HomeScreenUI.png) | ![user-history](Assets/UserAppUI/Medicines(T)UI.png) | ![user-history](Assets/UserAppUI/OrderScreenUI_1.png) |   ![user-history](Assets/UserAppUI/OrderScreenUI_2.png) |   ![user-history](Assets/UserAppUI/ProfileScreen_1.png) |   ![user-history](Assets/UserAppUI/ProfileScreen_2.png) |    
+
+|    EditProfile     |      ContactUs     |     HelpCenter     | Privacy&Security 1 | Privacy&Security 2 |   PaymentScreen    | 
+|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|   
+| ![user-login](Assets/UserAppUI/EditProfileScreenUI.png) | ![user-products](Assets/UserAppUI/ContactUsScreenUI.png) | ![user-orders](Assets/UserAppUI/HelpCenterScreenUI.png) | ![user-orders](Assets/UserAppUI/Privacy&SecurityScreenUI_1.png) | ![user-orders](Assets/UserAppUI/Privacy&SecurityScreenUI_2.png) | ![user-history](Assets/UserAppUI/PaymentScreenUI.png) |  
 
 ---
 
