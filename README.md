@@ -55,10 +55,15 @@ The platform consists of **two separate apps** – **Admin App** (for wholesaler
 
 
 ---
+ 
+## 📥 Download APK of UserApp i.e PharmaConnect
 
-## 🎥 App Preview (GIF)  
-> Click here to watch the app demo on Google Drive  
-[![Watch Demo](assets/Thumbnail.png)](https://drive.google.com/your-demo-link)  
+You can download and install the latest APK of **PharmaConnect** from the link below:
+
+[Click here to download the latest APK](https://github.com/Himanshu-Vinchurkar12/PharmaConnect/releases/download/v1.0.0/app-debug.apk)
+
+*(Make sure to enable "Install from Unknown Sources" on your Android device before installing.)*
+
 
 ---
 
