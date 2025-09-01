@@ -45,9 +45,13 @@ The platform consists of **two separate apps** – **Admin App** (for wholesaler
 ---
 
 ### 🖥 Admin App  
-| Dashboard | Add Product | Product Listview | Order Management | User Approvals | ListView of Categories | Manage Categories | 
-|-----------|-------------|------------------|------------------|----------------|------------------------|-------------------|
-| <img src="Assets/AdminAppUI/HomeScreen.jpg" width="200"/> | <img src="Assets/AdminAppUI/AddProduct.png" width="260"/> | <img src="Assets/AdminAppUI/TabletsScreen.png" width="260"/> | <img src="Assets/AdminAppUI/OrderTabScreen.png" width="160"/> | <img src="Assets/AdminAppUI/ApprovedUser.png" width="210"/> |  <img src="Assets/AdminAppUI/Manage Categories Screen.png" width="200"/> | <img src="Assets/AdminAppUI/Manage CategoryScreen2.png" width="200"/> |   
+| Dashboard | Add Product | Product Listview | Order Management | User Approvals | 
+|-----------|-------------|------------------|------------------|----------------|
+| <img src="Assets/AdminAppUI/HomeScreen.jpg" width="160"/> | <img src="Assets/AdminAppUI/AddProduct.png" width="160"/> | <img src="Assets/AdminAppUI/TabletsScreen.png" width="160"/> | <img src="Assets/AdminAppUI/OrderTabScreen.png" width="160"/> | <img src="Assets/AdminAppUI/ApprovedUser.png" width="160"/> | 
+
+| ListView of Categories | Manage Categories |
+|------------------------|-------------------|
+| <img src="Assets/AdminAppUI/Manage Categories Screen.png" width="160"/> | <img src="Assets/AdminAppUI/Manage CategoryScreen2.png" width="160"/> |   
 
 
 ---
